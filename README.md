@@ -36,6 +36,10 @@ A pesar de estos nuevos avances, el desarrollo web sigue teniendo en mi opinion 
 - El routing: Hace falta una forma estandar y nativa de resolver el enrrutado en las SPA (single page apps)
 - La implementación de la logica: Redux encaja muy bien con los web components, donde cada componente simplemente se encarga de renderizar un fragmento de estado, sin embargo aun no está claro como resolver cierto tipo de operaciones asíncronas, 
 
+## Ejemplo:
+Como github no soporta SPA he subido el ejemplo funcionando a firebase:
+
+https://k8-example.firebaseapp.com/
 
 ## Detalles de implementación
 
